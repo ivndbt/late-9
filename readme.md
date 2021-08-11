@@ -14,6 +14,7 @@ Read the full development log on my website: [rookiebwoy.eu](https://www.rookieb
 Here you can find the gerbers I used to manufacture the LATE-9.
 
 ![LATE-9 PCB](https://i.imgur.com/NtRZ4ew.png "LATE-9 PCB front and back")
+
 PCB's frontside and backside.
 
 
