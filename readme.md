@@ -45,3 +45,10 @@ Here some links to discussions/articles that I used for achieve this project:
 + @drashna comment to [this reddit thread](https://www.reddit.com/r/olkb/comments/dngjt8/tap_dance_triple_tap_example/) for triple tap dance function
 + [splitkb.com](https://docs.splitkb.com/hc/en-us/articles/360013811280) for the walkthrough about display your own logo on OLED screens
 
+## Donations
+
+If you've found something useful, please consider helping me maintain my website online and further develop all my projects.
+
+<p align="center">
+<a href="https://ko-fi.com/R6R84ZW1K"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate button"/></a>
+</p>
